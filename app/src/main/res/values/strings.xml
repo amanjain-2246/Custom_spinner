@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Custom_spinner</string>
+
+
+    <string-array name="title">
+        <item>Select</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>Oracle</item>
+        <item>Facebook</item>
+    </string-array>
+    <string-array name="desc_short">
+        <item> </item>
+        <item>Android is a mobile operating system currently developed by Google</item>
+        <item>Java is a set of computer software and specifications
+                  developed by Sun Microsystems</item>
+        <item>The Oracle Corporation is an American global computer
+             technology corporation, headquartered in Redwood City, California.</item>
+        <item>Facebook is a corporation and online social networking
+          service headquartered in Menlo Park, California, in the United States</item>
+    </string-array>
+    <string-array name="desc_long">
+        <item> </item>
+        <item>Android is a mobile operating system (OS) currently developed
+       by Google, based on the Linux kernel and designed primarily for touchscreen
+       mobile devices such as smartphones and tablets. Android\'s user interface is
+       mainly based on direct manipulation, using touch gestures that loosely correspond
+       to real-world actions, such as swiping, tapping and pinching, to manipulate on-screen
+       objects, along with a virtual keyboard for text input. In addition to touchscreen
+       devices, Google has further developed Android TV for televisions, Android Auto for cars,
+        and Android Wear for wrist watches, each with a specialized user interface.
+      Variants of Android are also used on notebooks, game consoles, digital cameras,
+       and other electronics.</item>
+        <item>Java is a set of computer software and specifications developed by
+       Sun Microsystems, later acquired by Oracle Corporation, that provides a
+     system for developing application software and deploying it in a cross-platform
+     computing environment. Java is used in a wide variety of computing platforms
+     from embedded devices and mobile phones to enterprise servers and supercomputers.
+     While less common, Java applets run in secure, sandboxed environments to provide
+     many features of native applications and can be embedded in HTML pages.</item>
+        <item>The Oracle Corporation is an American global computer technology corporation,
+     headquartered in Redwood City, California. The company primarily specializes in
+     developing and marketing database software and technology, cloud engineered systems
+     and enterprise software products – particularly its own brands of database management
+     systems. In 2011 Oracle was the second-largest software maker by revenue, after Microsoft.
+    The company also develops and builds tools for database development and systems of
+   middle-tier software, enterprise resource planning (ERP) software, customer relationship
+    management (CRM) software and supply chain management (SCM) software.</item>
+        <item>Facebook is a corporation and online social networking service
+     headquartered in Menlo Park, California, in the United States. Its website
+    was launched on February 4, 2004, by Mark Zuckerberg with his Harvard College roommates
+   and fellow students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.
+    The founders had initially limited the website\'s membership to Harvard students,
+    but later expanded it to colleges in the Boston area, the Ivy League, and Stanford
+   University. It gradually added support for students at various other universities and
+    later to high-school students.</item>
+    </string-array>
+</resources>
